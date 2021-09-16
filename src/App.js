@@ -14,6 +14,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1>{likes}</h1>
+			<p>Тест</p>
 			<button onClick={increment}>Increment</button>
 			<button onClick={decrement}>Decrement</button>
 		</div>
